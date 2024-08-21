@@ -257,7 +257,7 @@ else {
 
 var Physics = + window.prompt("Enter mark for Physics");
 var Chemistry = +window.prompt("Enter mark for Chemistry");
-var Physics = +window.prompt("Enter mark for Biology");
+var Biology = +window.prompt("Enter mark for Biology");
 var Computer = +window.prompt("Enter mark for Computer");
 var Mathematics = +window.prompt("Enter mark for Mathematics");
 
